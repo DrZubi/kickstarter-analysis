@@ -3,23 +3,27 @@
 
 ## Overview of Project
 
-
 ### Purpose
 
-The goal of this challenge assignment is to infer insightful statistical analysis and visualization to help Louise discover how different kickstarter campaigns fared in relation to their launch dates and their funding goals. Louise hopes that by doing so, it would help assist her with creating a successful kickstarter campaign. 
+The goal of this challenge assignment is to infer insightful statistical analysis and visualization to help Louise discover how different kickstarter campaigns fared in relation to their launch dates and funding goals. Louise hopes that by doing so, information can be gathered that could potentially be useful to assit her with creating a successful kickstarter campaign. 
 
+### Whats in this repository
+Items found in the repository:
+1) Resource folder containing two .png files (Outcomes_vs_Goals.png and Theater_Outcomes_vs_Launch.png)
+2) Kickstarter_Challenge.xlsx.zip file
+3) README.md
 
 ## Analysis and Challenges
 
 ### Deliverables included in report
 Three deliverables were created to help Louise's search for how different kickstarter campaigns fared in relation to their launch dates and their funding goals: 
-1) Outcomes Based on Launch Date [Chart] (!Theater_Outcomes_vs_Launch.png)
-2) Outcomes Based on Goals [Chart] (!Outcomes_vs_Goals.png) 
+1) Outcomes Based on Launch Date [Chart] (!https://github.com/DrZubi/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+2) Outcomes Based on Goals [Chart] (!https://github.com/DrZubi/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png) 
 3) This analysis report
 
 
 ### Analysis of Outcomes Based on Launch Date
-!Theater_Outcomes_vs_Launch.png
+!https://github.com/DrZubi/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png
 *Figure 1: Outcomes Based on Launch Date Chart*
 
 The legend of figure 1 displays three categories: the count succeeded, failed, and canceled. One major piece of information that one should keep in mind regarding figure 1 is that the chart only displays the kickstarter projects under the theater parent category. 
@@ -29,7 +33,7 @@ The legend of figure 1 displays three categories: the count succeeded, failed, a
 
 
 ### Analysis of Outcomes Based on Goals
-!Outcomes_vs_Goals.png
+!https://github.com/DrZubi/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png
 *Figure 2: Outcomes Based on Goal Chart*
 
 The legend of figure 2 displays three categories: percentage successful, percentage failed, and percentage canceled. There are two pieces of information that one should keep in mind regarding figure 2. For one, this chart only displays percentages of the outcomes for kickstarter campaigns that are plays. Second, the chart has no indication of the number of campaigns that were in each goal range. Without these pieces of information, one may assume incorrect conclusions.  
