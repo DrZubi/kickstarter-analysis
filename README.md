@@ -70,7 +70,10 @@ Responses to challange questions:
 
 4) What are some other possible tables and/or graphs that we could create?
 
-As mentioned above, other possible tables and graphs that I would include to help make better statistical inferences is another pivot table filtered by the parent category plays and years. I would also suggest showing the averages for the charts created to help readers understand where the averages of successful and uncesssful projcets fall. 
+As mentioned above, other possible tables and graphs that I would include to help make better statistical inferences are the following:
+	1) Another pivot table filtered by the parent category plays and years
+	2) I would also suggest showing the averages for the charts created to help readers understand where the averages of successful and uncesssful projcets fall. 
+	3) Possibly make use of a pie chart to show statistical percentages of the number of plays that were sucessful and failed that could be filtered into diffrent important categories; i.e months, years, countries, etc. 
 
 
 
